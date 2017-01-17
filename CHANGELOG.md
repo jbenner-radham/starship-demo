@@ -19,3 +19,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## 0.2.0 - 2017-01-16
 ### Changed
 - Bumped the version number yet again.
+
+## 0.2.1 - 2017-01-16
+### Added
+- Added a Yarn lock file.
